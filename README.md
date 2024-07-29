@@ -9,3 +9,6 @@
 
 ### Inc16 Output
 ![image](https://github.com/user-attachments/assets/622379f0-40ef-4f80-b993-f608067d451e)
+
+### ALU Output
+![out_ALU](https://github.com/user-attachments/assets/49161cd3-0973-4cc4-9745-f89b08e7c974)
